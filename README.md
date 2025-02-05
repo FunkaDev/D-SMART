@@ -7,8 +7,7 @@
 - **Lecture Time Management** – View and manage time schedules effectively.  
 - **Class Schedules** – Access detailed class schedules for all subjects.  
 - **AI Integration** – Utilize AI-powered features to enhance learning experiences.  
-- **Student & Lecturer List** – Easily access the complete list of students and lecturers.  
-- **Semester Grades** – Keep track of academic performance and grades.  
+- **Student & Lecturer List** – Easily access the complete list of students and lecturers.   
 - **Study Notes** – Take and manage notes for all courses efficiently.  
 - **More Features** – Various tools to assist in the academic process.  
 
